@@ -31,15 +31,19 @@ I'm Girija P!
 
 ---
 
-# 🚀 Featured Projects
-## Smart Logistics & Delivery Optimization System
-Route optimization using Dijkstra’s Algorithm with real-time tracking.
+## 🚀 Featured Projects
 
-## AI-Powered Spam Detection
-Spam classification using machine learning.
+| Project | Description | Tech |
+|---|---|---|
+| [Flask Task Manager](https://github.com/girija192005/flask-task-manager) | Full stack task app with user authentication | Flask, SQLite, HTML/CSS |
+| [Product Inventory API](https://github.com/girija192005/product-inventory-api) | REST API with CRUD and frontend | Flask, SQLAlchemy, JS |
+| [Smart Logistics System](https://github.com/girija192005/smart-logistics-system) | Route optimization using Dijkstra's Algorithm | Python, DSA |
+| [Weather App](https://github.com/girija192005/weather-app) | Real-time weather with 5-day forecast | React, Node.js, API |
+| [Password Generator](https://github.com/girija192005/password-generator) | Password generator with strength indicator | React, Vite |
 
-## Student Management System
-CRUD-based academic record management system.
+## 📊 GitHub Stats
+![Girija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=girija192005&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=girija192005&layout=compact&theme=dark&hide_border=true)
 
 ---
 
