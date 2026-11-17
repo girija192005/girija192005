@@ -1,55 +1,34 @@
-# 💫 About Me:
-Hey there 👋
-I'm Girija P!
+👋 Hi, I'm Girija P!
 
-🎓 B.Sc Computer Science Student  
-💻 Aspiring Software Development Engineer  
-🔭 Currently working on **Smart Logistics & Delivery Optimization System**  
-🌱 Learning **DSA, Backend Development, REST APIs, Machine Learning**  
-💬 Ask me about **Java, Python, SQL, DSA, and AI projects**  
-⚡ Passionate about building real-world software solutions 🚀  
+🎓 Postgraduate Student | Aspiring Data Scientist
 
----
+I'm passionate about Data Science, Data Analytics, and Machine Learning. I enjoy exploring data, discovering meaningful insights, and solving real-world problems using programming and statistical techniques.
 
-# 🌐 Socials
-- 💼 LinkedIn: https://linkedin.com/in/girija-p
-- 💻 GitHub: https://github.com/girija192005
-- ✉️ Email: girija192005@gmail.com
+💻 Technical Interests
 
----
+- Python & SQL
+- Data Analysis (Pandas, NumPy)
+- Data Visualization
+- Statistics & Mathematics
+- Machine Learning
+- Data Mining
 
-# 💻 Tech Stack
-- Java
-- Python
-- C++
-- JavaScript
-- Node.js
-- Flask
-- MySQL
-- REST APIs
-- Git & GitHub
+🌱 Currently Learning
 
----
+- Exploratory Data Analysis (EDA)
+- Machine Learning Algorithms
+- Statistical Analysis
+- Data Preprocessing & Visualization
 
-## 🚀 Featured Projects
+🚀 What I'm Working Towards
 
-| Project | Description | Tech |
-|---|---|---|
-| [Flask Task Manager](https://github.com/girija192005/flask-task-manager) | Full stack task app with user authentication | Flask, SQLite, HTML/CSS |
-| [Product Inventory API](https://github.com/girija192005/product-inventory-api) | REST API with CRUD and frontend | Flask, SQLAlchemy, JS |
-| [Smart Logistics System](https://github.com/girija192005/smart-logistics-system) | Route optimization using Dijkstra's Algorithm | Python, DSA |
-| [Weather App](https://github.com/girija192005/weather-app) | Real-time weather with 5-day forecast | React, Node.js, API |
-| [Password Generator](https://github.com/girija192005/password-generator) | Password generator with strength indicator | React, Vite |
+- Building real-world Data Science projects
+- Strengthening analytical and problem-solving skills
+- Learning machine learning techniques
+- Transforming raw data into meaningful insights
 
-## 📊 GitHub Stats
-![Girija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=girija192005&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=girija192005&layout=compact&theme=dark&hide_border=true)
+🎯 Career Goal
 
----
+To become a skilled Data Scientist and use data-driven approaches to solve real-world challenges.
 
-# 💼 Internship
-Cybersecurity & Networking Intern – BHEL
-
----
-
-⭐ *Code smart, solve real-world problems.*
+✨ Turning data into insights, and insights into impact!
